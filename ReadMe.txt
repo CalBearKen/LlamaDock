@@ -1,5 +1,7 @@
 Setup instructions:
 
+install Docker
+
 run setup.bat
 
 How to use:
